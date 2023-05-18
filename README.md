@@ -1,4 +1,6 @@
 # Компьютерный практикум
 **Надежда Кирей**
+
 2 курс ИВТ
-[Link](nadezhdakirei.github.io/another-page.md)
+
+[Link to another page](nadezhdakirei.github.io/another-page.md)
